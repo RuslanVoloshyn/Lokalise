@@ -98,6 +98,10 @@ h2 {
 	gap: 10px;
 }
 
+.controls__btn {
+	padding: 8px 35px;
+}
+
 
 /*banner*/
 .banner {
